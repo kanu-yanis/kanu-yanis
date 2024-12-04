@@ -8,14 +8,14 @@ Highly motivated and detail-oriented data scientist with a strong background in 
 
 #### GitHub stats 
 
-<a href="https://github.com/ymiraoui/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ymiraoui&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+<a href="https://github.com/kanu-yanis/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kanu-yanis&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>
 
 #### GitHub Streaks
 
-<a href="https://streak-stats.demolab.com/?user=ymiraoui">
-<img align="center" src="https://streak-stats.demolab.com/?user=ymiraoui" alt="My github streak" />
+<a href="https://streak-stats.demolab.com/?user=kanu-yanis">
+<img align="center" src="https://streak-stats.demolab.com/?user=kanu-yanis" alt="My github streak" />
 </a>
 
 ### Current Projects
